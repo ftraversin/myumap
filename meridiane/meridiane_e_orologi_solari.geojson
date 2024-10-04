@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Meridiana",
-        "description": "# Meridiana\n{{https://ftraversin.altervista.org/umap/meridiane/foto/M_45_655436-12_283179-49_253.jpg}}\n---\nSituata a:\n**145/A, Via Alzaia, Lanzago, Treviso, Veneto, 31100, Italia**",
+        "description": "# Meridiana\n{foto/M_45_655436-12_283179-49_253.jpg}}\n---\nSituata a:\n**145/A, Via Alzaia, Lanzago, Treviso, Veneto, 31100, Italia**",
         "tipologia": "ND"
       },
       "geometry": {
