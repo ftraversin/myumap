@@ -1,80 +1,243 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Meridiana",
-        "description": "# Meridiana\n{https://ftraversin.github.io/myumap/sundials/photos/M_45_655436-12_283179-49_253.jpg}}\n---\nSituata a:\n**145/A, Via Alzaia, Lanzago, Treviso, Veneto, 31100, Italia**",
-        "tipologia": "ND"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.283179,
-          45.655436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Meridiana",
-        "description": "# Meridiana\n{{https://ftraversin.github.io/myumap/sundials/photos/M_45_641437-10_87079-222_597.jpg}}\n---\nSituata a:\n**Brentino, Brentino Belluno, Verona, Veneto, Italia**",
-        "tipologia": "ND"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.87079,
-          45.641437
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Meridiana",
-        "description": "# Meridiana\n{{https://ftraversin.github.io/myumap/sundials/photos/M_43_052145-13_753638-454_769.jpg}}\n---\nSituata a:\n**San Giovanni, Montefiore dell'Aso, Ascoli Piceno, Marche, 63062, Italia**",
-        "tipologia": "ND"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.753638,
-          43.052145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Meridiana",
-        "description": "# Meridiana\n{{https://ftraversin.github.io/myumap/sundials/photos/M_43_402463-13_549924-344_689.jpg}}\n---\nSituata a:\n**La Torre Antica, Piazzale Beniamino Gigli, Porta Cerasa, Recanati, Macerata, Marche, 62019, Italia**",
-        "tipologia": "ND"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.549924,
-          43.402463
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Meridiana",
-        "description": "# Meridiana\n{{https://ftraversin.github.io/myumap/sundials/photos/M_46_370456-6_327308-416_672.jpg}}\n---\nSituata a:\n**Yvoire, Thonon-les-Bains, Haute-Savoie, 74140, France**",
-        "tipologia": "ND"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.327308,
-          46.370456
-        ]
-      }
-    }
-  ]
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    13.751110972222222,
+                    43.051876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/43_051876-13_751111-0-0.jpg|500}}\n---\nScattata a:\n**San Giovanni, Montefiore dell'Aso, Ascoli Piceno, Marche, 63062, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.753638,
+                    43.052144999999996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/43_052145-13_753638-0-1.jpg|500}}\n---\nScattata a:\n**San Giovanni, Montefiore dell'Aso, Ascoli Piceno, Marche, 63062, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.491971999999999,
+                    43.081015972222225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/43_081016-13_491972-0-2.jpg|500}}\n---\nScattata a:\n**Corso Navarra, Servigliano, Fermo, Marche, 63839, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.553098,
+                    43.397953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/43_397953-13_553098-0-3.jpg|500}}\n---\nScattata a:\n**Convento dei Cappuccini, 1, Piazzale dei Cappuccini, Porta Pesa, Recanati, Macerata, Marche, 62019, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.553098,
+                    43.397953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/43_397953-13_553098-0-4.jpg|500}}\n---\nScattata a:\n**Convento dei Cappuccini, 1, Piazzale dei Cappuccini, Porta Pesa, Recanati, Macerata, Marche, 62019, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.551574972222223,
+                    43.398581
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/43_398581-13_551575-0-5.jpg|500}}\n---\nScattata a:\n**Piazzale Franco Foschi, Porta Pesa, Recanati, Macerata, Marche, 62019, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.552486972222223,
+                    43.40058497222222
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/43_400585-13_552487-0-6.jpg|500}}\n---\nScattata a:\n**37, Via Roma, Porta Pesa, Recanati, Macerata, Marche, 62019, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.549924,
+                    43.40246297222222
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/43_402463-13_549924-0-7.jpg|500}}\n---\nScattata a:\n**Via Antonio Calcagni, Porta Cerasa, Recanati, Macerata, Marche, 62019, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.548348,
+                    43.403905
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/43_403905-13_548348-0-8.jpg|500}}\n---\nScattata a:\n**12, Piazza Giacomo Leopardi, Porta Cerasa, Castelnuovo, Recanati, Macerata, Marche, 62019, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.870789972222223,
+                    45.641436999999996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/45_641437-10_87079-0-9.jpg|500}}\n---\nScattata a:\n**Via Santuario, Preabocco, Brentino, Brentino Belluno, Verona, Veneto, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.87157,
+                    45.642026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/45_642026-10_87157-0-10.jpg|500}}\n---\nScattata a:\n**Via Damiano Chiesa, Brentino, Brentino Belluno, Verona, Veneto, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.872431,
+                    45.643565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/45_643565-10_872431-0-11.jpg|500}}\n---\nScattata a:\n**Via Santuario, Brentino, Brentino Belluno, Verona, Veneto, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.724505972222222,
+                    45.652944999999995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/45_652945-10_724506-0-12.jpg|500}}\n---\nScattata a:\n**Via Giosuè Carducci, Ca' Tronconi, Pai di Sopra, Torri del Benaco, Verona, Veneto, 37010, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.722993,
+                    45.65541697222222
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/45_655417-10_722993-0-13.jpg|500}}\n---\nScattata a:\n**Pai, 80, Via Pai di Sotto, Ca' Tronconi, Pai di Sopra, Torri del Benaco, Verona, Veneto, 37010, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.283179,
+                    45.655436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/45_655436-12_283179-0-14.jpg|500}}\n---\nScattata a:\n**145a, Via Alzaia, Lanzago, Treviso, Veneto, 31100, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.239452972222221,
+                    45.850456972222226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/45_850457-12_239453-0-15.jpg|500}}\n---\nScattata a:\n**Via San Salvatore, Susegana, Treviso, Veneto, 31058, Italia**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3273079999999995,
+                    46.370455972222224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "# Foto: **ND**\n{{https://ftraversin.github.io/myumap/sundials/photos/46_370456-6_327308-0-16.jpg|500}}\n---\nScattata a:\n**Place du Thay, Le Pré Ponce, Yvoire, Thonon-les-Bains, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74140, France**\n",
+                "name": "Foto"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }
