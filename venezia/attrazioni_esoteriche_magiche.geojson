@@ -197,8 +197,8 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3538,
-                    45.4527
+                    12,345848701539147,
+                    45.446498895161255
                 ],
                 "type": "Point"
             },
@@ -213,13 +213,13 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3324,
-                    45.4301
+                    12.33221808924622,
+                    45.43088869635652
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Palazzo Dario",
+                "name": "Palazzo Ca' Dario",
                 "description": "## Palazzo 'maledetto' per la sfortuna dei suoi proprietari\n{{https://upload.wikimedia.org/wikipedia/commons/b/b5/Venice_-_Dario's_Palace.jpg|300}}\nConosciuto come il “palazzo maledetto”, ogni proprietario ha subito disgrazie, alimentando la leggenda che l’edificio porti sfortuna e sia infestato da spiriti maligni.\n\n*Sestriere: Dorsoduro*",
                 "city": "Venezia"                 
             },
@@ -309,8 +309,8 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3877,
-                    45.4554
+                    12.416116718911782,
+                    45.496793460330444
                 ],
                 "type": "Point"
             },
