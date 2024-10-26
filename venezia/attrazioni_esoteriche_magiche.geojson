@@ -132,7 +132,37 @@
             },
             "properties": {
                 "name": "Corte dei Milion",
-                "description": "## Collegata a Marco Polo, questa corte evoca viaggi lontani e leggende di esploratori e avventurieri.\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Corte_seconda_del_Milion_vera_da_pozzo_porticato_del_teatro_Venezia_notte.jpg/1200px-Corte_seconda_del_Milion_vera_da_pozzo_porticato_del_teatro_Venezia_notte.jpg}}\nFAssociata alla figura di Marco Polo, questa corte sembra incantata, con storie di viaggi esotici e leggende che narrano di tesori nascosti e simboli magici.\n\n*Sestiere: Cannaregio*"
+                "description": "## Collegata a Marco Polo, questa corte evoca viaggi lontani e leggende di esploratori e avventurieri.\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Corte_seconda_del_Milion_vera_da_pozzo_porticato_del_teatro_Venezia_notte.jpg/1200px-Corte_seconda_del_Milion_vera_da_pozzo_porticato_del_teatro_Venezia_notte.jpg}}\nAssociata alla figura di Marco Polo, questa corte sembra incantata, con storie di viaggi esotici e leggende che narrano di tesori nascosti e simboli magici.\n\n*Sestiere: Cannaregio*"
+            },
+            "id": ""
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.3368,
+                    45.4382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Campo San Giacomo di Rialto",
+                "description": "## Ex luogo di pratiche esoteriche e riti mercantili\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/San_Giacomo_di_Rialto_%28Facade%29.jpg/1920px-San_Giacomo_di_Rialto_%28Facade%29.jpg}}\nSi dice che il campo sia stato il luogo di riti alchemici e antiche pratiche esoteriche. Qui, i mercanti si radunavano non solo per affari ma anche per discutere di misteri e conoscenze proibite.\n\n*Sestiere: San Polo*"
+            },
+            "id": ""
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.3323,
+                    45.4372
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Casa di Carlo Goldoni",
+                "description": "## La casa del famoso drammaturgo, con alcune stanze considerate infestate.\n{{https://upload.wikimedia.org/wikipedia/commons/7/77/Casa_di_Carlo_Goldoni.jpg}}\nLa residenza del celebre drammaturgo veneziano, dove si racconta che alcune stanze siano infestate da spiriti, soprattutto nella biblioteca, dove Goldoni scriveva le sue opere.\n\n*Sestiere: San Polo*"
             },
             "id": ""
         }
