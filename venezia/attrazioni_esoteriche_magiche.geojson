@@ -12,7 +12,7 @@
             },
             "properties": {
                 "name": "Campiello del Remer",
-                "description": "## Atmosfera cupa e leggende di apparizioni notturne.\n{{https://upload.wikimedia.org/wikipedia/commons/d/d5/Campiello_del_Remer.jpg}}\nUn piccolo campo nascosto, noto per un’antica leggenda che racconta di apparizioni misteriose legate ai pozzi storici. Il campo è circondato da vecchie case che creano un’atmosfera cupa e suggestiva.\n\n*Sestriere: Cannaregio*"
+                "description": "## Atmosfera cupa e leggende di apparizioni notturne\n{{https://upload.wikimedia.org/wikipedia/commons/d/d5/Campiello_del_Remer.jpg}}\nUn piccolo campo nascosto, noto per un’antica leggenda che racconta di apparizioni misteriose legate ai pozzi storici. Il campo è circondato da vecchie case che creano un’atmosfera cupa e suggestiva.\n\n*Sestriere: Cannaregio*"
             },
             "id": "c5NzM"
         },
@@ -42,7 +42,7 @@
             },
             "properties": {
                 "name": "Corte Botera",
-                "description": "## Considerata una corte misteriosa, abitata da spiriti dispettosi.\n{{https://64.media.tumblr.com/30d866639a6255466195413055c8cbd0/tumblr_oc9xl0VLSd1s1jq03o2_1280.jpg}}\nUna piccola corte nascosta che si dice sia abitata da spiriti dispettosi. È uno dei luoghi più enigmatici di Cannaregio, avvolta da un silenzio inquietante e storie di antiche maledizioni. Conosciuta anche come *Corte Sconta detta Arcana* dagli appassionati del fumetto Corto Maltese.\n\n*Sestiere: Cannaregio*"
+                "description": "## Considerata una corte misteriosa, abitata da spiriti dispettosi\n{{https://64.media.tumblr.com/30d866639a6255466195413055c8cbd0/tumblr_oc9xl0VLSd1s1jq03o2_1280.jpg}}\nUna piccola corte nascosta che si dice sia abitata da spiriti dispettosi. È uno dei luoghi più enigmatici di Cannaregio, avvolta da un silenzio inquietante e storie di antiche maledizioni. Conosciuta anche come *Corte Sconta detta Arcana* dagli appassionati del fumetto Corto Maltese.\n\n*Sestiere: Cannaregio*"
             },
             "id": "E1MzI"
         },
@@ -132,7 +132,7 @@
             },
             "properties": {
                 "name": "Corte dei Milion",
-                "description": "## Collegata a Marco Polo, questa corte evoca viaggi lontani e leggende di esploratori e avventurieri.\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Corte_seconda_del_Milion_vera_da_pozzo_porticato_del_teatro_Venezia_notte.jpg/1200px-Corte_seconda_del_Milion_vera_da_pozzo_porticato_del_teatro_Venezia_notte.jpg}}\nAssociata alla figura di Marco Polo, questa corte sembra incantata, con storie di viaggi esotici e leggende che narrano di tesori nascosti e simboli magici.\n\n*Sestiere: Cannaregio*"
+                "description": "## Collegata a Marco Polo, questa corte evoca viaggi lontani e leggende di esploratori e avventurieri\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Corte_seconda_del_Milion_vera_da_pozzo_porticato_del_teatro_Venezia_notte.jpg/1200px-Corte_seconda_del_Milion_vera_da_pozzo_porticato_del_teatro_Venezia_notte.jpg}}\nAssociata alla figura di Marco Polo, questa corte sembra incantata, con storie di viaggi esotici e leggende che narrano di tesori nascosti e simboli magici.\n\n*Sestiere: Cannaregio*"
             },
             "id": ""
         },
@@ -147,7 +147,7 @@
             },
             "properties": {
                 "name": "Campo San Giacomo di Rialto",
-                "description": "## Ex luogo di pratiche esoteriche e riti mercantili\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/San_Giacomo_di_Rialto_%28Facade%29.jpg/1920px-San_Giacomo_di_Rialto_%28Facade%29.jpg}}\nSi dice che il campo sia stato il luogo di riti alchemici e antiche pratiche esoteriche. Qui, i mercanti si radunavano non solo per affari ma anche per discutere di misteri e conoscenze proibite.\n\n*Sestiere: San Polo*"
+                "description": "## Ex luogo di pratiche esoteriche e riti mercantili\n{{https://upload.wikimedia.org/wikipedia/commons/e/eb/San_Giacomo_di_Rialto_(Facade).jpg}}\nSi dice che il campo sia stato il luogo di riti alchemici e antiche pratiche esoteriche. Qui, i mercanti si radunavano non solo per affari ma anche per discutere di misteri e conoscenze proibite.\n\n*Sestiere: San Polo*"
             },
             "id": ""
         },
@@ -162,7 +162,22 @@
             },
             "properties": {
                 "name": "Casa di Carlo Goldoni",
-                "description": "## La casa del famoso drammaturgo, con alcune stanze considerate infestate.\n{{https://upload.wikimedia.org/wikipedia/commons/7/77/Casa_di_Carlo_Goldoni.jpg}}\nLa residenza del celebre drammaturgo veneziano, dove si racconta che alcune stanze siano infestate da spiriti, soprattutto nella biblioteca, dove Goldoni scriveva le sue opere.\n\n*Sestiere: San Polo*"
+                "description": "## La casa del famoso drammaturgo, con alcune stanze considerate infestate\n{{https://upload.wikimedia.org/wikipedia/commons/7/77/Casa_di_Carlo_Goldoni.jpg}}\nLa residenza del celebre drammaturgo veneziano, dove si racconta che alcune stanze siano infestate da spiriti, soprattutto nella biblioteca, dove Goldoni scriveva le sue opere.\n\n*Sestiere: San Polo*"
+            },
+            "id": ""
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.3223,
+                    45.4412
+                ]
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Chiesa di San Simeon Piccolo",
+                "description": "## Chiesa con una cripta e leggende di apparizioni notturne\n{{https://upload.wikimedia.org/wikipedia/commons/1/1c/San_Simeone_Piccolo_(Venice).jpg}}\nDotata di una cripta inquietante, la chiesa è associata a storie di fantasmi e misteriose figure in abiti ecclesiastici che vagano nella notte.\n\n*Sestiere: Santa Croce*"
             },
             "id": ""
         }
