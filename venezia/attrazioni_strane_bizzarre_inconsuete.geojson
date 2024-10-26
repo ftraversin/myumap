@@ -37,6 +37,6 @@
     "outlinkTarget": "self",
     "iconUrl": "https://cdn.iconscout.com/icon/free/png-512/free-joker-face-icon-download-in-svg-png-gif-file-formats--buffoon-jester-clown-christmas-celebration-pack-festival-days-icons-1179220.png?f=webp&w=512",
     "iconClass": "Default",
-	"popupShape": "Large"
+	"popupShape": "Default"
   }
 }

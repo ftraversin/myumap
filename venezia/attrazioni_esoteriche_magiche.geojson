@@ -338,6 +338,6 @@
         "iconUrl": "https://cdn.iconscout.com/icon/free/png-512/free-god-icon-download-in-svg-png-gif-file-formats--religion-culture-festival-traditional-hindu-esoteric-pack-festivals-icons-9059527.png?f=webp&w=512",
         "popupTemplate": "Default",
         "iconClass": "Default",
-        "popupShape": "Large"
+        "popupShape": "Default"
     }
 }

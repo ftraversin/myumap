@@ -35,6 +35,6 @@
     },
     "popupTemplate": "Default",
     "name": "Attrazioni particolari",
-	"popupShape": "Large"
+	"popupShape": "Default"
   }
 }
