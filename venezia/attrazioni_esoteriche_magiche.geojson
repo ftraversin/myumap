@@ -12,7 +12,8 @@
             },
             "properties": {
                 "name": "Campiello del Remer",
-                "description": "## Atmosfera cupa e leggende di apparizioni notturne\n{{https://upload.wikimedia.org/wikipedia/commons/d/d5/Campiello_del_Remer.jpg}}\nUn piccolo campo nascosto, noto per un’antica leggenda che racconta di apparizioni misteriose legate ai pozzi storici. Il campo è circondato da vecchie case che creano un’atmosfera cupa e suggestiva.\n\n*Sestriere: Cannaregio*"
+                "description": "## Atmosfera cupa e leggende di apparizioni notturne\n{{https://upload.wikimedia.org/wikipedia/commons/d/d5/Campiello_del_Remer.jpg|300}}\nUn piccolo campo nascosto, noto per un’antica leggenda che racconta di apparizioni misteriose legate ai pozzi storici. Il campo è circondato da vecchie case che creano un’atmosfera cupa e suggestiva.\n\n*Sestriere: Cannaregio*",
+                "city": "Venezia"                 
             },
             "id": "c5NzM"
         },
@@ -27,7 +28,8 @@
             },
             "properties": {
                 "name": "Chiesa di San Zulian",
-                "description": "## Luogo di culto che ospitava rituali di protezione e purificazione durante le pestilenze\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chiesa_San_Zulian.jpg/800px-Chiesa_San_Zulian.jpg}}\nQuesto edificio è conosciuto per i rituali di protezione che vi si praticavano durante i periodi di peste. La chiesa, ricca di simbologie occulte, offre scorci inquietanti.\n\n*Sestiere: San Marco*"
+                "description": "## Luogo di culto che ospitava rituali di protezione e purificazione durante le pestilenze\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chiesa_San_Zulian.jpg/800px-Chiesa_San_Zulian.jpg|300}}\nQuesto edificio è conosciuto per i rituali di protezione che vi si praticavano durante i periodi di peste. La chiesa, ricca di simbologie occulte, offre scorci inquietanti.\n\n*Sestiere: San Marco*",
+                "city": "Venezia"                 
             },
             "id": "g2MjU"
         },
@@ -42,7 +44,8 @@
             },
             "properties": {
                 "name": "Corte Botera",
-                "description": "## Considerata una corte misteriosa, abitata da spiriti dispettosi\n{{https://64.media.tumblr.com/30d866639a6255466195413055c8cbd0/tumblr_oc9xl0VLSd1s1jq03o2_1280.jpg}}\nUna piccola corte nascosta che si dice sia abitata da spiriti dispettosi. È uno dei luoghi più enigmatici di Cannaregio, avvolta da un silenzio inquietante e storie di antiche maledizioni. Conosciuta anche come *Corte Sconta detta Arcana* dagli appassionati del fumetto Corto Maltese.\n\n*Sestiere: Cannaregio*"
+                "description": "## Considerata una corte misteriosa, abitata da spiriti dispettosi\n{{https://64.media.tumblr.com/30d866639a6255466195413055c8cbd0/tumblr_oc9xl0VLSd1s1jq03o2_1280.jpg|300}}\nUna piccola corte nascosta che si dice sia abitata da spiriti dispettosi. È uno dei luoghi più enigmatici di Cannaregio, avvolta da un silenzio inquietante e storie di antiche maledizioni. Conosciuta anche come *Corte Sconta detta Arcana* dagli appassionati del fumetto Corto Maltese.\n\n*Sestiere: Cannaregio*",
+                "city": "Venezia"                 
             },
             "id": "E1MzI"
         },
@@ -57,7 +60,8 @@
             },
             "properties": {
                 "name": "L’isola dei fantasmi di Poveglia",
-                "description": "{{https://upload.wikimedia.org/wikipedia/commons/4/46/Poveglia_Closeup_of_Hospital.jpg}}\nL’isola venne utilizzata come lazzaretto durante l’epidemia di peste nera del ‘700 e tra i suoi vigneti trovarono sepoltura i corpi delle centinaia di vittime della pandemia. Da quel momento iniziarono a diffondersi storie sull’avvistamento di fantasmi dei morti di peste. \n\nA inizio ‘900 fu aperto un ospedale psichiatrico, divenuto triste teatro di torture sui pazienti. \n\nL’isola, oggi totalmente disabitata e raggiungibile solo con mezzi privati, sia diventata il luogo preferito dai turisti impavidi e appassionati di paranormale.\n\n*Isola di Poveglia*\n\n"
+                "description": "{{https://upload.wikimedia.org/wikipedia/commons/4/46/Poveglia_Closeup_of_Hospital.jpg|300}}\nL’isola venne utilizzata come lazzaretto durante l’epidemia di peste nera del ‘700 e tra i suoi vigneti trovarono sepoltura i corpi delle centinaia di vittime della pandemia. Da quel momento iniziarono a diffondersi storie sull’avvistamento di fantasmi dei morti di peste. \n\nA inizio ‘900 fu aperto un ospedale psichiatrico, divenuto triste teatro di torture sui pazienti. \n\nL’isola, oggi totalmente disabitata e raggiungibile solo con mezzi privati, sia diventata il luogo preferito dai turisti impavidi e appassionati di paranormale.\n\n*Isola di Poveglia*\n\n",
+                "city": "Venezia"                 
             },
             "id": "Y4NjY"
         },
@@ -72,7 +76,8 @@
             },
             "properties": {
                 "name": "Palazzo Contarini del Bovolo",
-                "description": "Famoso per la scala a chiocciola, è stato luogo di misteri e leggende\n{{https://upload.wikimedia.org/wikipedia/commons/8/84/Palazzo_contarini_del_bovolo_01.JPG}}\nFamoso per la scala a chiocciola unica, il palazzo è considerato il luogo di strane apparizioni, legate a personaggi della nobiltà veneziana che vi abitavano.\n\n*Sestriere: San Marco*"
+                "description": "Famoso per la scala a chiocciola, è stato luogo di misteri e leggende\n{{https://upload.wikimedia.org/wikipedia/commons/8/84/Palazzo_contarini_del_bovolo_01.JPG|300}}\nFamoso per la scala a chiocciola unica, il palazzo è considerato il luogo di strane apparizioni, legate a personaggi della nobiltà veneziana che vi abitavano.\n\n*Sestriere: San Marco*",
+                "city": "Venezia"                 
             },
             "id": "kxNDg"
         },
@@ -87,7 +92,8 @@
             },
             "properties": {
                 "name": "Palazzo Mastelli del Cammello",
-                "description": "## Famoso per la scultura del cammello, legata a una maledizione\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cannaregio_-_Palazzo_Mastelli_del_Cammello_%28Venice%29.jpg/640px-Cannaregio_-_Palazzo_Mastelli_del_Cammello_%28Venice%29.jpg}}\nQuesto palazzo è famoso per la scultura di un cammello sulla facciata. La leggenda narra che tre mercanti furono maledetti e trasformati in pietra per la loro avidità.\n\n*Sestiere: Cannaregio*"
+                "description": "## Famoso per la scultura del cammello, legata a una maledizione\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cannaregio_-_Palazzo_Mastelli_del_Cammello_%28Venice%29.jpg/640px-Cannaregio_-_Palazzo_Mastelli_del_Cammello_(Venice).jpg|300}}\nQuesto palazzo è famoso per la scultura di un cammello sulla facciata. La leggenda narra che tre mercanti furono maledetti e trasformati in pietra per la loro avidità.\n\n*Sestiere: Cannaregio*",
+                "city": "Venezia"                 
             },
             "id": "I4MTU"
         },
@@ -102,7 +108,8 @@
             },
             "properties": {
                 "name": "Ponte dei Sospiri",
-                "description": "## Emblematico luogo di malinconia e tristezza\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Antonio_Contin_-_Ponte_dei_sospiri_%28Venice%29.jpg/640px-Antonio_Contin_-_Ponte_dei_sospiri_%28Venice%29.jpg}}\nIl ponte collegava il Palazzo Ducale alle Prigioni. I sospiri dei prigionieri si dice risuonino ancora tra le pietre, alimentando un'aura di tristezza e mistero.\n\n*Sestiere: San Marco*"
+                "description": "## Emblematico luogo di malinconia e tristezza\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Antonio_Contin_-_Ponte_dei_sospiri_%28Venice%29.jpg/640px-Antonio_Contin_-_Ponte_dei_sospiri_(Venice).jpg|300}}\nIl ponte collegava il Palazzo Ducale alle Prigioni. I sospiri dei prigionieri si dice risuonino ancora tra le pietre, alimentando un'aura di tristezza e mistero.\n\n*Sestiere: San Marco*",
+                "city": "Venezia"                 
             },
             "id": "U1OTM"
         },
@@ -117,7 +124,8 @@
             },
             "properties": {
                 "name": "Teatro Malibran",
-                "description": "## Teatro con racconti di apparizioni della cantante Malibran\n{{https://upload.wikimedia.org/wikipedia/commons/b/b1/Teatro_Malibran.jpg}}\nFamoso per il fantasma della celebre cantante Maria Malibran, il teatro è stato il luogo di numerosi avvistamenti e inspiegabili fenomeni acustici, che lo rendono uno dei più “infestati” della città.\n\n*Sestiere: Cannaregio*"
+                "description": "## Teatro con racconti di apparizioni della cantante Malibran\n{{https://upload.wikimedia.org/wikipedia/commons/b/b1/Teatro_Malibran.jpg|300}}\nFamoso per il fantasma della celebre cantante Maria Malibran, il teatro è stato il luogo di numerosi avvistamenti e inspiegabili fenomeni acustici, che lo rendono uno dei più “infestati” della città.\n\n*Sestiere: Cannaregio*",
+                "city": "Venezia"                 
             },
             "id": "Q5MTQ"
         },
@@ -132,7 +140,8 @@
             },
             "properties": {
                 "name": "Corte dei Milion",
-                "description": "## Collegata a Marco Polo, questa corte evoca viaggi lontani e leggende di esploratori e avventurieri\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Corte_seconda_del_Milion_vera_da_pozzo_porticato_del_teatro_Venezia_notte.jpg/1200px-Corte_seconda_del_Milion_vera_da_pozzo_porticato_del_teatro_Venezia_notte.jpg}}\nAssociata alla figura di Marco Polo, questa corte sembra incantata, con storie di viaggi esotici e leggende che narrano di tesori nascosti e simboli magici.\n\n*Sestiere: Cannaregio*"
+                "description": "## Collegata a Marco Polo, questa corte evoca viaggi lontani e leggende di esploratori e avventurieri\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Corte_seconda_del_Milion_vera_da_pozzo_porticato_del_teatro_Venezia_notte.jpg/1200px-Corte_seconda_del_Milion_vera_da_pozzo_porticato_del_teatro_Venezia_notte.jpg|300}}\nAssociata alla figura di Marco Polo, questa corte sembra incantata, con storie di viaggi esotici e leggende che narrano di tesori nascosti e simboli magici.\n\n*Sestiere: Cannaregio*",
+                "city": "Venezia"                 
             },
             "id": ""
         },
@@ -147,7 +156,8 @@
             },
             "properties": {
                 "name": "Campo San Giacomo di Rialto",
-                "description": "## Ex luogo di pratiche esoteriche e riti mercantili\n{{https://upload.wikimedia.org/wikipedia/commons/e/eb/San_Giacomo_di_Rialto_(Facade).jpg}}\nSi dice che il campo sia stato il luogo di riti alchemici e antiche pratiche esoteriche. Qui, i mercanti si radunavano non solo per affari ma anche per discutere di misteri e conoscenze proibite.\n\n*Sestiere: San Polo*"
+                "description": "## Ex luogo di pratiche esoteriche e riti mercantili\n{{https://upload.wikimedia.org/wikipedia/commons/e/eb/San_Giacomo_di_Rialto_(Facade).jpg|300}}\nSi dice che il campo sia stato il luogo di riti alchemici e antiche pratiche esoteriche. Qui, i mercanti si radunavano non solo per affari ma anche per discutere di misteri e conoscenze proibite.\n\n*Sestiere: San Polo*",
+                "city": "Venezia"                 
             },
             "id": ""
         },
@@ -162,7 +172,8 @@
             },
             "properties": {
                 "name": "Casa di Carlo Goldoni",
-                "description": "## La casa del famoso drammaturgo, con alcune stanze considerate infestate\n{{https://upload.wikimedia.org/wikipedia/commons/7/77/Casa_di_Carlo_Goldoni.jpg}}\nLa residenza del celebre drammaturgo veneziano, dove si racconta che alcune stanze siano infestate da spiriti, soprattutto nella biblioteca, dove Goldoni scriveva le sue opere.\n\n*Sestiere: San Polo*"
+                "description": "## La casa del famoso drammaturgo, con alcune stanze considerate infestate\n{{https://upload.wikimedia.org/wikipedia/commons/7/77/Casa_di_Carlo_Goldoni.jpg|300}}\nLa residenza del celebre drammaturgo veneziano, dove si racconta che alcune stanze siano infestate da spiriti, soprattutto nella biblioteca, dove Goldoni scriveva le sue opere.\n\n*Sestiere: San Polo*",
+                "city": "Venezia"                 
             },
             "id": ""
         },
@@ -177,10 +188,140 @@
             },
             "properties": {
                 "name": "Chiesa di San Simeon Piccolo",
-                "description": "## Chiesa con una cripta e leggende di apparizioni notturne\n{{https://upload.wikimedia.org/wikipedia/commons/1/1c/San_Simeone_Piccolo_(Venice).jpg}}\nDotata di una cripta inquietante, la chiesa è associata a storie di fantasmi e misteriose figure in abiti ecclesiastici che vagano nella notte.\n\n*Sestiere: Santa Croce*"
+                "description": "## Chiesa con una cripta e leggende di apparizioni notturne\n{{https://upload.wikimedia.org/wikipedia/commons/1/1c/San_Simeone_Piccolo_(Venice).jpg|300}}\nDotata di una cripta inquietante, la chiesa è associata a storie di fantasmi e misteriose figure in abiti ecclesiastici che vagano nella notte.\n\n*Sestiere: Santa Croce*",
+                "city": "Venezia"                 
+            },
+            "id": ""
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.3538,
+                    45.4527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cimitero di San Michele",
+                "description": "## Antico cimitero con tombe di personalità illustri e leggende\n{{https://upload.wikimedia.org/wikipedia/commons/3/3a/Friedhof_San_Michele_Venedig_Aug_2020_1.jpg|300}}\nSituata sull’isola di San Michele, il cimitero è luogo di storie di anime inquiete. Diverse tombe ospitano personaggi noti e la notte si dice siano visibili figure evanescenti.\n\n*Isola: San Michele*",
+                "city": "Venezia"                 
+            },
+            "id": ""
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.3324,
+                    45.4301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Palazzo Dario",
+                "description": "## Palazzo 'maledetto' per la sfortuna dei suoi proprietari\n{{https://upload.wikimedia.org/wikipedia/commons/b/b5/Venice_-_Dario's_Palace.jpg|300}}\nConosciuto come il “palazzo maledetto”, ogni proprietario ha subito disgrazie, alimentando la leggenda che l’edificio porti sfortuna e sia infestato da spiriti maligni.\n\n*Sestriere: Dorsoduro*",
+                "city": "Venezia"                 
+            },
+            "id": ""
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.3370,
+                    45.4426
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Calle Varisco",
+                "description": "## Considerata una delle calli più strette di Venezia, associata a superstizioni\n{{https://images.marketing-italia.eu/uploads/visitvenezia/uploads_articoli/paragrafo/20210314184436CalleVarisco_05.jpg|300}}\nUna delle calli più strette di Venezia, Calle Varisco è avvolta da superstizioni. Si racconta che chi passa di qui di notte possa incontrare strane presenze.\n\n*Sestriere: Cannaregio*",
+                "city": "Venezia"                 
+            },
+            "id": ""
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.3415,
+                    45.4364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Chiesa di Santa Maria Formosa",
+                "description": "## Luogo di culto con leggende legate a visioni e apparizioni\n{{https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Formosa#/media/File:Santa_Maria_Formosa_Facciata_e_campanile.jpg|300}}\nLegata a visioni mistiche e apparizioni, è un luogo in cui si praticavano antichi rituali di purificazione per i fedeli.\n\n*Sestriere: Castello*",
+                "city": "Venezia"
+            },
+            "id": ""
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.3270,
+                    45.4360
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Corte dell’Anatomia",
+                "description": "## Luogo di culto con leggende legate a visioni e apparizioni\n{{https://live.comune.venezia.it/sites/live.comune.venezia.it/files/styles/img_article/public/field/image/DSC_6780m.jpg|300}}\nUn tempo utilizzata per lezioni di anatomia e dissezioni, è circondata da racconti su figure spettrali che popolano il luogo durante la notte.\n\n*Sestriere: Dorsoduro*",
+                "city": "Venezia" 
+            },
+            "id": ""
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.3404,
+                    45.4415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Chiesa di San Lazzaro dei Mendicanti",
+                "description": "## Storicamente legata a riti esorcistici per i malati di mente\n{{https://upload.wikimedia.org/wikipedia/commons/f/f0/Chiesa_di_San_Lazzaro_dei_Mendicanti_Venezia.jpg|300}}\nStoricamente dedicata agli esorcismi, era luogo di preghiere e rituali per guarire le anime tormentate. La struttura porta ancora tracce di pratiche esoteriche.\n\n*Sestriere: Castello*",
+                "city": "Venezia" 
+            },
+            "id": ""
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.3298,
+                    45.4410
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Chiesa di San Giacomo dell'Orio",
+                "description": "## Antico luogo di culto ricco di simboli mistici\n{{https://upload.wikimedia.org/wikipedia/commons/c/c9/Chiesa_di_San_Giacomo_dell'Orio.jpg|300}}\nAntica e piena di simboli mistici, la chiesa è associata a racconti di presenze spettrali e strane energie percepite dai visitatori.\n\n*Sestriere: Castello*",
+                "city": "Venezia"  
+            }, 
+            "id": ""
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    12.3877,
+                    45.4554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ponte del Diavolo",
+                "description": "## Famoso per la mancanza di parapetti, è avvolto da leggende di apparizioni diaboliche\n{{https://upload.wikimedia.org/wikipedia/commons/a/ab/Torcello_-_Ponte_del_diavolo.jpg|300}}\nIl ponte senza parapetto, su cui si dice che il diavolo appaia durante la notte, è avvolto da storie di patti oscuri e visioni inquietanti.\n\n*Isola: Torcello*",
+                "city": "Venezia"    
             },
             "id": ""
         }
+        
     ],
     "_umap_options": {
         "displayOnLoad": true,
