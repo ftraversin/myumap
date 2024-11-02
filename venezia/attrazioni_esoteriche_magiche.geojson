@@ -5,8 +5,9 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3371,
-                    45.4403
+                    12.32690272779362,
+                    45.44265598553513
+                    
                 ],
                 "type": "Point"
             },
@@ -21,8 +22,9 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3384,
-                    45.4355
+                    12.338689461000415,
+                    45.43583083876748
+                   
                 ],
                 "type": "Point"
             },
@@ -37,8 +39,8 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3386,
-                    45.443181
+                    12.342291648787521,
+                    45.438550007143924
                 ],
                 "type": "Point"
             },
@@ -69,14 +71,14 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3362,
-                    45.4343
+                    12.334523975831344,
+                    45.43497753482504
                 ],
                 "type": "Point"
             },
             "properties": {
                 "name": "Palazzo Contarini del Bovolo",
-                "description": "Famoso per la scala a chiocciola, è stato luogo di misteri e leggende\n{{https://upload.wikimedia.org/wikipedia/commons/8/84/Palazzo_contarini_del_bovolo_01.JPG|300}}\nFamoso per la scala a chiocciola unica, il palazzo è considerato il luogo di strane apparizioni, legate a personaggi della nobiltà veneziana che vi abitavano.\n\n*Sestriere: San Marco*",
+                "description": "Famoso per la scala a chiocciola, è stato luogo di misteri e leggende\n{{https://upload.wikimedia.org/wikipedia/commons/8/84/Palazzo_contarini_del_bovolo_01.JPG|300}}\nFamoso per la scala a chiocciola unica, il palazzo è considerato il luogo di strane apparizioni, legate a personaggi della nobiltà veneziana che vi abitavano.\n\n*Sestriere: San Marco*\n[[https://www.gioiellinascostidivenezia.it/]]",
                 "city": "Venezia"                 
             },
             "id": "kxNDg"
@@ -85,13 +87,13 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3352,
-                    45.4423
+                    12.332841178348055,
+                    45.445752816368966
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Palazzo Mastelli del Cammello",
+                "name": "Ca' Mastelli del Cammello",
                 "description": "## Famoso per la scultura del cammello, legata a una maledizione\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cannaregio_-_Palazzo_Mastelli_del_Cammello_%28Venice%29.jpg/640px-Cannaregio_-_Palazzo_Mastelli_del_Cammello_(Venice).jpg|300}}\nQuesto palazzo è famoso per la scultura di un cammello sulla facciata. La leggenda narra che tre mercanti furono maledetti e trasformati in pietra per la loro avidità.\n\n*Sestiere: Cannaregio*",
                 "city": "Venezia"                 
             },
@@ -101,14 +103,15 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3409,
-                    45.4341
+                    12.34088658342816,
+                    45.4341700307282
+                    
                 ],
                 "type": "Point"
             },
             "properties": {
                 "name": "Ponte dei Sospiri",
-                "description": "## Emblematico luogo di malinconia e tristezza\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Antonio_Contin_-_Ponte_dei_sospiri_%28Venice%29.jpg/640px-Antonio_Contin_-_Ponte_dei_sospiri_(Venice).jpg|300}}\nIl ponte collegava il Palazzo Ducale alle Prigioni. I sospiri dei prigionieri si dice risuonino ancora tra le pietre, alimentando un'aura di tristezza e mistero.\n\n*Sestiere: San Marco*",
+                "description": "## Emblematico luogo di malinconia e tristezza\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Antonio_Contin_-_Ponte_dei_sospiri_%28Venice%29.jpg/640px-Antonio_Contin_-_Ponte_dei_sospiri_(Venice).jpg|300}}\nIl ponte collegava il Palazzo Ducale alle Prigioni. I sospiri dei prigionieri si dice risuonino ancora tra le pietre, alimentando un'aura di tristezza e mistero.\n\n*Sestiere: San Marco*\n[[https://palazzoducale.visitmuve.it/]]",
                 "city": "Venezia"                 
             },
             "id": "U1OTM"
@@ -117,8 +120,8 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3385,
-                    45.4396
+                    12.337903496453247,
+                    45.439097319178344              
                 ],
                 "type": "Point"
             },
@@ -133,13 +136,13 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3381,
-                    45.4439
+                    12.337816823621207,
+                    45.438808547281724                 
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Corte dei Milion",
+                "name": "Corte Seconda dei Milion",
                 "description": "## Collegata a Marco Polo, questa corte evoca viaggi lontani e leggende di esploratori e avventurieri\n{{https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Corte_seconda_del_Milion_vera_da_pozzo_porticato_del_teatro_Venezia_notte.jpg/1200px-Corte_seconda_del_Milion_vera_da_pozzo_porticato_del_teatro_Venezia_notte.jpg|300}}\nAssociata alla figura di Marco Polo, questa corte sembra incantata, con storie di viaggi esotici e leggende che narrano di tesori nascosti e simboli magici.\n\n*Sestiere: Cannaregio*",
                 "city": "Venezia"                 
             },
@@ -149,8 +152,8 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3368,
-                    45.4382
+                    12.335457430090509,
+                    45.43882857277944
                 ],
                 "type": "Point"
             },
@@ -165,14 +168,14 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3323,
-                    45.4372
+                    12.32840452230807,
+                    45.43613569038996
                 ],
                 "type": "Point"
             },
             "properties": {
                 "name": "Casa di Carlo Goldoni",
-                "description": "## La casa del famoso drammaturgo, con alcune stanze considerate infestate\n{{https://upload.wikimedia.org/wikipedia/commons/7/77/Casa_di_Carlo_Goldoni.jpg|300}}\nLa residenza del celebre drammaturgo veneziano, dove si racconta che alcune stanze siano infestate da spiriti, soprattutto nella biblioteca, dove Goldoni scriveva le sue opere.\n\n*Sestiere: San Polo*",
+                "description": "## La casa del famoso drammaturgo, con alcune stanze considerate infestate\n{{https://upload.wikimedia.org/wikipedia/commons/7/77/Casa_di_Carlo_Goldoni.jpg|300}}\nLa residenza del celebre drammaturgo veneziano, dove si racconta che alcune stanze siano infestate da spiriti, soprattutto nella biblioteca, dove Goldoni scriveva le sue opere.\n\n*Sestiere: San Polo*\n[[http://carlogoldoni.visitmuve.it/]]",
                 "city": "Venezia"                 
             },
             "id": ""
@@ -181,14 +184,14 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3223,
-                    45.4412
+                    12.322427963393055,
+                    45.44034921342331               
                 ],
                 "type": "Point"
             },
             "properties": {
                 "name": "Chiesa di San Simeon Piccolo",
-                "description": "## Chiesa con una cripta e leggende di apparizioni notturne\n{{https://upload.wikimedia.org/wikipedia/commons/1/1c/San_Simeone_Piccolo_(Venice).jpg|300}}\nDotata di una cripta inquietante, la chiesa è associata a storie di fantasmi e misteriose figure in abiti ecclesiastici che vagano nella notte.\n\n*Sestiere: Santa Croce*",
+                "description": "## Chiesa con una cripta e leggende di apparizioni notturne\n{{https://upload.wikimedia.org/wikipedia/commons/1/1c/San_Simeone_Piccolo_(Venice).jpg|300}}\nDotata di una cripta inquietante, la chiesa è associata a storie di fantasmi e misteriose figure in abiti ecclesiastici che vagano nella notte.\n\n*Sestiere: Santa Croce*\n[[https://venezia.fssp.it/]]",
                 "city": "Venezia"                 
             },
             "id": ""
@@ -229,8 +232,8 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3370,
-                    45.4426
+                    12.339470683428509,
+                    45.44122297128008
                 ],
                 "type": "Point"
             },
@@ -245,14 +248,14 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3415,
-                    45.4364
+                    12.340764339246675,
+                    45.437334863902734
                 ],
                 "type": "Point"
             },
             "properties": {
                 "name": "Chiesa di Santa Maria Formosa",
-                "description": "## Luogo di culto con leggende legate a visioni e apparizioni\n{{https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Formosa#/media/File:Santa_Maria_Formosa_Facciata_e_campanile.jpg|300}}\nLegata a visioni mistiche e apparizioni, è un luogo in cui si praticavano antichi rituali di purificazione per i fedeli.\n\n*Sestriere: Castello*",
+                "description": "## Luogo di culto con leggende legate a visioni e apparizioni\n{{https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Formosa#/media/File:Santa_Maria_Formosa_Facciata_e_campanile.jpg|300}}\nLegata a visioni mistiche e apparizioni, è un luogo in cui si praticavano antichi rituali di purificazione per i fedeli.\n\n*Sestriere: Castello*\n[[http://www.santamariaformosa.it/]]",
                 "city": "Venezia"
             },
             "id": ""
@@ -261,13 +264,13 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3270,
-                    45.4360
+                    12.326673465262255,
+                    45.43957775002594
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Corte dell’Anatomia",
+                "name": "Corte dell'Anatomia",
                 "description": "## Luogo di culto con leggende legate a visioni e apparizioni\n{{https://live.comune.venezia.it/sites/live.comune.venezia.it/files/styles/img_article/public/field/image/DSC_6780m.jpg|300}}\nUn tempo utilizzata per lezioni di anatomia e dissezioni, è circondata da racconti su figure spettrali che popolano il luogo durante la notte.\n\n*Sestriere: Dorsoduro*",
                 "city": "Venezia" 
             },
@@ -277,8 +280,8 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3404,
-                    45.4415
+                    12.342365895986926,
+                    45.44149171037052
                 ],
                 "type": "Point"
             },
@@ -293,14 +296,15 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    12.3298,
-                    45.4410
+                    12.327431200554168,
+                    45.44022563576141
+                    
                 ],
                 "type": "Point"
             },
             "properties": {
                 "name": "Chiesa di San Giacomo dell'Orio",
-                "description": "## Antico luogo di culto ricco di simboli mistici\n{{https://upload.wikimedia.org/wikipedia/commons/c/c9/Chiesa_di_San_Giacomo_dell'Orio.jpg|300}}\nAntica e piena di simboli mistici, la chiesa è associata a racconti di presenze spettrali e strane energie percepite dai visitatori.\n\n*Sestriere: Castello*",
+                "description": "## Antico luogo di culto ricco di simboli mistici\n{{https://upload.wikimedia.org/wikipedia/commons/c/c9/Chiesa_di_San_Giacomo_dell'Orio.jpg|300}}\nAntica e piena di simboli mistici, la chiesa è associata a racconti di presenze spettrali e strane energie percepite dai visitatori.\n\n*Sestriere: Castello*\n[[http://www.sangiacomodallorio.it/]]",
                 "city": "Venezia"  
             }, 
             "id": ""
@@ -330,7 +334,7 @@
         "editMode": "advanced",
         "name": "Attrazioni magiche ed esoteriche",
         "remoteData": {},
-        "color": "Crimson",
+        "color": "White",
         "id": "f857e331-d71f-4906-b2bb-d4a1b4f6d31b",
         "permissions": {
             "edit_status": 0
